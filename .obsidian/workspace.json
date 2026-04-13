@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ugent.md",
+                "file": "Howest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ugent"
+              "title": "Howest"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "dfe16514fbd6ca94",
   "lastOpenFiles": [
-    "kulak.md",
+    "KU Leuven Kulak.md",
+    "UGENT.md",
+    "VIVES.md",
+    "Howest.md",
     "index.md",
-    "ugent.md",
-    "vives.md",
-    "howest.md",
     "Welcome.md"
   ]
 }
