@@ -48,12 +48,16 @@ encoder GND -> GND [3]
 option is a resistor divider per channel (good to a few hundred kHz):
 
 ```
-5V signal ---[ 10k ]---+--- GPn
-                       |
-                     [ 15k ]
-                       |
-                      GND          gives 5.0 V * 15/25 = 3.0 V
+5V signal ---[ 1k ]---+--- GPn
+                      |
+                    [ 1.5k ]
+                      |
+                     GND           gives 5.0 V * 1.5/2.5 = 3.0 V
 ```
+
+Prefer 1k/1.5k over the more common 10k/15k: the lower source impedance drives
+the analyser's probe capacitance cleanly past 100 kHz, at a cost of 2 mA per
+channel. Use 10k/15k only if the encoder's drive is too weak for that.
 
 Better above ~200 kHz, or with long cables: a 74LVC245 or 74AHCT-family buffer
 powered from 3V3, or a dedicated bidirectional level-shifter board.
@@ -66,7 +70,8 @@ are too weak for long cables - fit external ones.
 **Line-driver / differential encoder (A, /A, B, /B, RS-422)**: do not connect
 the pairs straight to the Pico. Use an AM26LS32 / SN75175 / DS26C32 receiver
 (120 Ω across each pair at the receiver) and take the single-ended outputs to
-the GPIOs. Ignoring `/A` and `/B` and using only `A` and `B` sometimes works on
+the GPIOs. Power the receiver from 3V3, not 5 V, and its outputs land at 3.3 V
+with no divider needed. Ignoring `/A` and `/B` and using only `A` and `B` sometimes works on
 a short bench cable, but that throws away the entire point of a differential
 encoder next to a switching motor drive.
 

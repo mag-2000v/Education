@@ -17,6 +17,7 @@ independently.
 | `measure_speed.py` | step 1: open-loop ramp, prints duty vs rpm, suggests gains |
 | `sync_two_motors.py` | step 2: closed-loop, both motors at one target rpm |
 | `WIRING.md` | how to physically connect encoder, driver and analyser |
+| [Encoder Wiring Card](https://claude.ai/code/artifact/c0a02ad9-bcb6-4f85-94c3-7d5c38d5a11f) | illustrated bench reference for the encoder-to-Pico-to-analyser wiring |
 | `IDENTIFY_FEEDBACK.md` | what the Tamagawa TS3727N83E8 is, and how to find out what feedback device it carries |
 | `CHECKLIST.md` | **start here** - the unknowns that remain and the bench procedure to close each one |
 
