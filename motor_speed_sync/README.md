@@ -17,6 +17,7 @@ independently.
 | `measure_speed.py` | step 1: open-loop ramp, prints duty vs rpm, suggests gains |
 | `sync_two_motors.py` | step 2: closed-loop, both motors at one target rpm |
 | `WIRING.md` | how to physically connect encoder, driver and analyser |
+| `IDENTIFY_FEEDBACK.md` | what the Tamagawa TS3727N83E8 is, and how to find out what feedback device it carries |
 
 Copy all of them to the Pico (Thonny, `mpremote cp *.py :`, rshell, ...), then:
 
