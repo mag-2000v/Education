@@ -16,6 +16,7 @@ independently.
 | `hardware.py` | builds everything from `config.py` |
 | `measure_speed.py` | step 1: open-loop ramp, prints duty vs rpm, suggests gains |
 | `sync_two_motors.py` | step 2: closed-loop, both motors at one target rpm |
+| `WIRING.md` | how to physically connect encoder, driver and analyser |
 
 Copy all of them to the Pico (Thonny, `mpremote cp *.py :`, rshell, ...), then:
 
