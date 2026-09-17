@@ -10,22 +10,65 @@ Legende: ✅ = neemt zeker stagiairs (staat op hun site) · 🔧 = past bij het 
 
 ---
 
-## Hoeveel bedrijven? (Roeselare zelf)
+## Shortlist: enkel Roeselare + Rumbeke (fietsafstand)
 
-| Categorie | Aantal in Roeselare | Namen |
+**21 bedrijven** waar een 6IICT-stage realistisch is zonder dat je de gemeente uit moet. 🚲 = vanuit het centrum met de fiets te doen.
+
+### IT-dienstverleners (servicedesk, netwerken, cloud, security)
+
+| Bedrijf | Waar | Wat je er doet |
 |---|---|---|
-| **A. ICT-support & netwerken** | **10** | Dynamate (kantoor Roeselare) · Aditco Solutions · Lebon IT Services (Beveren) · ITAF · Aberon IT · Zoka · KV-Solutions · AZ Delta (ICT) · Roularta (IT-servicedesk) · Stad Roeselare (dienst ICT) |
-| **B. Industriële automatisering** | **3** | ATV · Vandecappelle Controls · VDC Roeselare |
-| **C. Technische dienst productie** | **3** | Soubry · Brouwerij Rodenbach · Dovy Keukens |
-| **D. Embedded & machinebouw** | **3** | VDL Bus Roeselare · Dewulf · AVR |
-| **Kernlijst** | **19** | de bedrijven hierboven — allemaal met de fiets bereikbaar |
-| Extra, kleiner | +8 | pc-/computerzaken (VDH IT Systems, Wim@com …) en webbureaus (Code-on, Kruisraket, KMO Design, Kings Agency, Original Media, Pixular) |
-| **Totaal Roeselare** | **±27** | |
-| Binnen 10–15 km erbij | +12 | **Ardooie (ConXioN)** · **Passendale (Dynamate HQ)** · Izegem (Televic, Skyline, Handsaeme Machinery, Full House, Germond, Vandemoortele) · Hooglede (Deceuninck, Mariasteen) · Ardooie (Ardo, Sioen) |
+| **Dynamate** — kantoor Roeselare | Roeselare 🚲 | Het vroegere **denk IT**: infrastructuur, security en support. Grootste IT-team van de stad |
+| **Aditco Solutions** | Mandellaan 381, Roeselare 🚲 | IT + telefonie + software op maat, klein team → je doet alles mee · 051 31 58 20 |
+| **Lebon IT Services** | Beveren-Roeselare 🚲 | ~50 collega's: Infrastructure & Networking, Security, Modern Work |
+| **ITAF** — ICT Service Center | Roeselare 🚲 | Managed IT, support, cloud, security |
+| **Aberon IT** | Roeselare 🚲 | Software & integraties, hardware, cloud, netwerk & security, telecom |
+| **Zoka** | Roeselare 🚲 | ICT voor kmo's: hardware, netwerken, cloud, VoIP, monitoring |
+| **KV-Solutions** | Roeselare 🚲 | Ontwerp, installatie en beheer van ICT-netwerken, databeveiliging |
 
-Ter vergelijking (bredere markt, niet allemaal geschikt voor stage): Gouden Gids telt in Roeselare ±20 zaken "computeronderhoud & -herstelling", 48 "computers & toebehoren" en 21 onder "pc"; softwarebedrijf-info telt er 13 maatwerksoftware, 13 software consultancy en 8 softwarelevering. Op VDAB staan **81 vacatures automatisatietechnieker** in Roeselare (8800) — elk zo'n bedrijf is een mogelijke stageplaats.
+### IT binnen een grote organisatie
 
-> Praktisch: je hoeft er geen 20 te contacteren. Bel er **6 à 8** uit de kernlijst; met 2 à 3 positieve reacties kan je kiezen.
+| Organisatie | Waar | Wat je er doet |
+|---|---|---|
+| **AZ Delta** | hoofdcampus **Rumbeke** 🚲 | Grote ICT-dienst: netwerk, werkplekbeheer, medische apparatuur. Stage in de ondersteunende diensten staat op hun site |
+| **Roularta Media Group** | Roeselare 🚲 | IT-servicedesk + digitale afdeling (web, data, apps). Eigen stagepagina |
+| **Stad Roeselare — dienst ICT** | Roeselare 🚲 | Netwerk en werkplekken van stad + OCMW |
+| **House of HR / Accent** | Accent Business Park, **Rumbeke** 🚲 | Groepshoofdkwartier met eigen digital/tech-teams — ❓ navragen |
+
+### Embedded & machinebouw
+
+| Bedrijf | Waar | Wat je er doet |
+|---|---|---|
+| **VDL Bus Roeselare** | Roeselare 🚲 | Elektrische bussen: CAN-bus, aandrijving, bedrading, testen |
+| **Dewulf** | Roeselare 🚲 | ISOBUS-besturing van landbouwmachines (controller + software + touchscreen). **Eigen stagepagina** |
+| **AVR** | Roeselare 🚲 | Landbouwmachines: elektriciteit, hydraulica, diagnose, service |
+
+### Industriële automatisering
+
+| Bedrijf | Waar | Wat je er doet |
+|---|---|---|
+| **ATV** | Roeselare 🚲 | Automatisering van industriële installaties, 20+ jaar |
+| **Vandecappelle Controls** | Roeselare 🚲 | Elektrotechniek, regeltechniek, HVAC-sturingen |
+| **VDC Roeselare** | Roeselare 🚲 | Elektrotechnisch materiaal, meet- en regeltechniek |
+
+### Productiebedrijven met eigen technische dienst
+
+| Bedrijf | Waar | Wat je er doet |
+|---|---|---|
+| **Soubry** | Roeselare 🚲 | Pastaproductie, volautomatische lijnen |
+| **Brouwerij Rodenbach** | Roeselare 🚲 | Sterk geautomatiseerd brouwproces |
+| **Dovy Keukens** | Roeselare 🚲 | Productie + eigen IT/technische dienst |
+| **Inagro** | Ieperseweg, **Rumbeke-Beveren** 🚲 | Praktijkonderzoek land- en tuinbouw: sensoren, meetsystemen, data — ❓ navragen of ze een technische stage aanbieden |
+
+### Kleiner, maar telt ook mee (+8)
+
+pc-/computerzaken (VDH IT Systems, Wim@com …) en webbureaus (Code-on, Kruisraket, KMO Design, Kings Agency, Original Media, Pixular) — samen kom je in Roeselare + Rumbeke aan **±29 mogelijke adressen**.
+
+### Net buiten de gemeente, toch het vermelden waard
+
+**ConXioN** (Ardooie, ~10 km 🚲) — het enige IT-bedrijf van de streek met een échte stagepagina én een apart stageprogramma. Als fietsen tot Ardooie lukt, is dit je sterkste kaart.
+
+> Bel er **6 à 8** uit deze lijst. Met 2 à 3 positieve reacties kan je kiezen in plaats van blij zijn met wat overblijft.
 
 ---
 
