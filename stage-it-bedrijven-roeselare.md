@@ -10,6 +10,31 @@ Legende: ✅ = neemt zeker stagiairs (staat op hun site) · 🔧 = past bij het 
 
 ---
 
+## Kort: de IT-bedrijven in Roeselare + Rumbeke die écht passen
+
+Alleen **IT** (dus zonder de voedingsbedrijven, brouwerij en Inagro), alleen **Roeselare + Rumbeke**, gerangschikt op hoe goed ze bij 6IICT passen.
+
+| # | Bedrijf | Waar | Waarom het past | Stage |
+|---|---|---|---|---|
+| 1 | **Dynamate** (kantoor Roeselare, ex-denk IT) | Roeselare | Infrastructuur, **security** en support in één team — letterlijk de netwerkkant van je lessentabel. Grootste IT-team van de stad, hoort bij een groep (met VanRoey) dus goede begeleiding | 🔧 bellen |
+| 2 | **Lebon IT Services** | Beveren-Roeselare | ~50 collega's, drie duidelijke teams: **Infrastructure & Networking, Security, Modern Work**. Werkt voor bedrijven én lokale besturen | 🔧 bellen |
+| 3 | **ITAF** — ICT Service Center | Roeselare | Managed IT, servicedesk, cloud, security. Deel van een grotere groep → procedures, ticketsysteem, mentor | 🔧 bellen |
+| 4 | **AZ Delta** — ICT-dienst | campus **Rumbeke** | Groot netwerk, honderden werkplekken, medische apparatuur. Het enige in deze lijst met een **bestaande stageprocedure** | ✅ [stagepagina](https://www.azdelta.be/nl/stage-doen-bij-az-delta) |
+| 5 | **Aditco Solutions** | Mandellaan 381, Roeselare | Klein team (~7): IT, telefonie én software op maat. Je draait overal in mee i.p.v. één taakje | 🔧 051 31 58 20 |
+| 6 | **Aberon IT** | Roeselare | Breedste aanbod: software & integraties, hardware, cloud, **netwerk & security**, telecom. 20+ jaar | 🔧 bellen |
+| 7 | **Zoka** | Roeselare | ICT-partner voor kmo's: hardware, netwerken, firewall/wifi/switches, cloud, VoIP, monitoring | 🔧 bellen |
+| 8 | **KV-Solutions** | Roeselare | Ontwerpt, installeert, **monitort** en beheert ICT-netwerken + databeveiliging | 🔧 bellen |
+| 9 | **Roularta Media Group** | Roeselare | IT-servicedesk + digitale afdeling. Sterk als je ook naar web/data wil kijken, minder pure netwerken | ✅ [stageplaatsen](https://jobs.roularta.com/stageplaatsen/) |
+| 10 | **Stad Roeselare** — dienst ICT | Roeselare | Netwerk en werkplekken van stad + OCMW. Formeel traject, dus vroeg aanvragen | ❓ personeelsdienst |
+
+**Wil je de technische/embedded kant i.p.v. servicedesk**, dan passen deze drie even goed en zitten ze ook in Roeselare: **Dewulf** (ISOBUS-besturingen, ✅ eigen stagepagina) · **VDL Bus Roeselare** (elektrische bussen, CAN-bus) · **AVR** (landbouwmachines, diagnose).
+
+**Wat ik eruit laat en waarom:** Soubry, Rodenbach, Dovy en Inagro = productie/onderzoek, geen IT-bedrijf. ATV, Vandecappelle Controls en VDC = automatisering/elektrotechniek, passen bij IICT maar het is geen IT-sfeer. De webbureaus (Kruisraket, Code-on …) en pc-winkels = te klein of te ver van netwerken/systemen.
+
+**Bel eerst 1 → 4.** Dat zijn de vier met een echt IT-team en iemand die tijd heeft om je te begeleiden.
+
+---
+
 ## Shortlist: enkel Roeselare + Rumbeke (fietsafstand)
 
 **21 bedrijven** waar een 6IICT-stage realistisch is zonder dat je de gemeente uit moet. 🚲 = vanuit het centrum met de fiets te doen.
