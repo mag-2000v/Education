@@ -10,6 +10,24 @@ Legende: ✅ = neemt zeker stagiairs (staat op hun site) · 🔧 = past bij het 
 
 ---
 
+## Hoeveel bedrijven? (Roeselare zelf)
+
+| Categorie | Aantal in Roeselare | Namen |
+|---|---|---|
+| **A. ICT-support & netwerken** | **9** | Aditco Solutions · Lebon IT Services (Beveren) · ITAF · Aberon IT · Zoka · KV-Solutions · AZ Delta (ICT) · Roularta (IT-servicedesk) · Stad Roeselare (dienst ICT) |
+| **B. Industriële automatisering** | **3** | ATV · Vandecappelle Controls · VDC Roeselare |
+| **C. Technische dienst productie** | **3** | Soubry · Brouwerij Rodenbach · Dovy Keukens |
+| **Kernlijst** | **15** | de bedrijven hierboven — allemaal met de fiets bereikbaar |
+| Extra, kleiner | +8 | pc-/computerzaken (VDH IT Systems, Wim@com …) en webbureaus (Code-on, Kruisraket, KMO Design, Kings Agency, Original Media, Pixular) |
+| **Totaal Roeselare** | **±23** | |
+| Binnen 10 km erbij | +8 | Izegem (Skyline, Televic, Full House, Germond, Vandemoortele) · Hooglede (Deceuninck, Mariasteen) · Ardooie (Ardo, Sioen) |
+
+Ter vergelijking (bredere markt, niet allemaal geschikt voor stage): Gouden Gids telt in Roeselare ±20 zaken "computeronderhoud & -herstelling", 48 "computers & toebehoren" en 21 onder "pc"; softwarebedrijf-info telt er 13 maatwerksoftware, 13 software consultancy en 8 softwarelevering. Op VDAB staan **81 vacatures automatisatietechnieker** in Roeselare (8800) — elk zo'n bedrijf is een mogelijke stageplaats.
+
+> Praktisch: je hoeft er geen 20 te contacteren. Bel er **6 à 8** uit de kernlijst; met 2 à 3 positieve reacties kan je kiezen.
+
+---
+
 ## Wat een stagebedrijf voor 6IICT moet kunnen bieden
 
 Industriële ICT = **geen pure programmeerstage**. De richting leidt op tot *industrieel ICT-technieker*: installeren, in dienst stellen en onderhouden van computergestuurde systemen. Wat je meebrengt:
