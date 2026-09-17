@@ -1,107 +1,154 @@
 ---
-title: Stage IT Roeselare
-description: IT-bedrijven in en rond Roeselare voor een stage
+title: Stage 6IICT — VTI Roeselare
+description: Stagebedrijven voor Industriële ICT (6de jaar, VTI Roeselare) in en rond Roeselare
 ---
 
-## Stage IT — bedrijven rond Roeselare
+## Stage 6IICT (VTI Roeselare) — bedrijven in en rond Roeselare
 
-Opgezocht op 2026-09-17. Afstanden = ongeveer, met de wagen vanuit Roeselare centrum.
-Legende: ✅ = stage/studenten expliciet vermeld op hun site · ❓ = nog te checken (bellen/mailen)
+Opgezocht op 2026-09-17. Afstanden ≈ met de wagen/fiets vanuit Roeselare centrum.
+Legende: ✅ = neemt zeker stagiairs (staat op hun site) · 🔧 = past bij het IICT-profiel, stage te bevestigen · 🎓 = werkt vooral met hogeschoolstudenten, toch proberen
 
 ---
 
-## 1. In Roeselare zelf (0–5 km)
+## Wat een stagebedrijf voor 6IICT moet kunnen bieden
 
-| Bedrijf | Wat ze doen | Stage | Link |
+Industriële ICT = **geen pure programmeerstage**. De richting leidt op tot *industrieel ICT-technieker*: installeren, in dienst stellen en onderhouden van computergestuurde systemen. Wat je meebrengt:
+
+- PLC & microprocessoren, sturingen programmeren
+- netwerken opzetten en beheren — zowel **kantoornetwerken** als **industriële netwerken**
+- elektriciteit, elektronica, elektropneumatica
+- regeltechniek, automatisering
+- onderhoud + diagnose van netwerkapparatuur, netwerkconfiguratie, bekabeling
+- pc's en hardware
+
+Zoek dus een bedrijf uit één van deze drie groepen — dat zijn drie heel verschillende stages:
+
+| Groep | Wat je er doet | Voor wie |
+|---|---|---|
+| **A. ICT-support & netwerken** | pc's klaarzetten, netwerk/wifi/firewall, servers, helpdesk, klanten bezoeken | als je richting IT-infrastructuur wil |
+| **B. Industriële automatisering & bordenbouw** | PLC's, besturingskasten bouwen/bedraden, sensoren, machines in dienst stellen | als je richting automatisering wil |
+| **C. Technische dienst van een productiebedrijf** | onderhoud + storingen op machines, PLC's, industriële netwerken | als je wil zien hoe een fabriek draait |
+
+---
+
+## A. ICT-support & netwerken — in Roeselare zelf (0–5 km)
+
+Klein en lokaal: geen online stageprocedure, maar wél het makkelijkst binnen te raken. **Bellen werkt hier beter dan mailen.**
+
+| Bedrijf | Wat ze doen | Status | Link |
 |---|---|---|---|
-| **Roularta Media Group** | Mediagroep, HQ in Roeselare. Eigen IT- en digital-afdeling: webdevelopment, data-analyse, app-design, digitale projecten | ✅ eigen stagepagina | [jobs.roularta.com/stageplaatsen](https://jobs.roularta.com/stageplaatsen/) |
-| **AZ Delta** (Roeselare–Menen–Torhout) | Ziekenhuis met grote ICT-dienst + data/innovatie. Stage kan ook in de *ondersteunende diensten*, niet enkel zorg | ✅ eigen stagepagina | [azdelta.be — stage doen](https://www.azdelta.be/nl/stage-doen-bij-az-delta) |
-| **Aditco Solutions** | IT-partner (fusie Aditco Roeselare + VDS-IT Oostende); nieuwe afdeling **software op maat**. Klein team (~7 VTE) → veel variatie als stagiair. Mandellaan 381, 8800 Roeselare | ❓ | [aditco.be](https://www.aditco.be/) |
-| **Aberon IT** | Software & integraties, consultancy, cloud, netwerk & security, telecom. 20+ jaar actief | ❓ | [aberon.be](https://aberon.be/) |
-| **ITAF** (ICT Service Center Roeselare) | Managed IT-services, support, cloud, security. Deel van grotere groep → meer structuur/begeleiding | ❓ | [itaf.eu — Roeselare](https://www.itaf.eu/contacteer-ons/roeselare/) |
-| **Zoka** | ICT-partner voor KMO's: hardware, netwerken, cloud, VoIP, monitoring | ❓ | [zoka.be](https://zoka.be/over-zoka/) |
-| **Lebon IT Services** (Beveren-Roeselare) | ICT-infrastructuur voor bedrijven en lokale overheden. ~50 collega's: Infrastructure & Networking, Security, Modern Work | ❓ | via Gouden Gids / LinkedIn |
-| **KV-Solutions** | Ontwerp, installatie, monitoring en beheer van ICT-netwerken + databeveiliging | ❓ | via Gouden Gids |
-| **House of HR / Accent** | HQ in Roeselare, grote groep met eigen digital/tech-teams | ❓ | [houseofhr.com](https://houseofhr.com/) |
-| **Web- & digital agencies** | Code-on, Kruisraket, KMO Design, Kings Agency, Original Media, Pixular — klein, praktisch, goed voor een eerste webdev-stage | ❓ (spontaan mailen werkt hier het best) | [sortlist — Roeselare](https://www.sortlist.be/nl/webdesign-bureau/roeselare-vlaanderen-be) |
+| **Aditco Solutions** — Mandellaan 381, 8800 Roeselare | IT-partner (fusie met VDS-IT Oostende), telefonie + IT, nieuwe afdeling software op maat. Klein team (~7 VTE) → je doet van alles mee | 🔧 | [aditco.be](https://www.aditco.be/) · 051 31 58 20 |
+| **Lebon IT Services** — Beveren-Roeselare | ~50 collega's: Infrastructure & Networking, Security, Modern Work. Bedrijven + lokale besturen | 🔧 grootste lokale speler | via LinkedIn / Gouden Gids |
+| **ITAF** — ICT Service Center Roeselare | Managed IT, support, cloud, security. Deel van een grotere groep → echte begeleiding + procedures | 🔧 | [itaf.eu — Roeselare](https://www.itaf.eu/contacteer-ons/roeselare/) |
+| **Aberon IT** | Software & integraties, hardware, cloud, netwerk & security, telecom. 20+ jaar | 🔧 | [aberon.be](https://aberon.be/) |
+| **Zoka** | ICT voor KMO's: hardware, netwerken, cloud, VoIP, monitoring | 🔧 | [zoka.be](https://zoka.be/over-zoka/) |
+| **KV-Solutions** | Ontwerpt, installeert, monitort en beheert ICT-netwerken + databeveiliging | 🔧 | via Gouden Gids |
+| **AZ Delta** — Roeselare | Ziekenhuis met grote ICT-dienst (netwerk, werkplekbeheer, medische apparatuur). Stage kan uitdrukkelijk ook in de **ondersteunende diensten** | ✅ | [azdelta.be — stage doen](https://www.azdelta.be/nl/stage-doen-bij-az-delta) |
+| **Roularta Media Group** — Roeselare | Mediagroep met eigen IT-servicedesk + digitale afdeling. Te voet/fiets bereikbaar | ✅ eigen stagepagina | [jobs.roularta.com/stageplaatsen](https://jobs.roularta.com/stageplaatsen/) |
+| **Stad Roeselare — dienst ICT** | Netwerk en werkplekken van stad + OCMW | 🔧 te checken via personeelsdienst | roeselare.be |
 
 ---
 
-## 2. Vlakbij (5–15 km) — de sterkste tech-bedrijven van de streek
+## B. Industriële automatisering & bordenbouw (0–25 km) — dichtst bij "Industriële ICT"
 
-| Bedrijf | Wat ze doen | Stage | Link |
+| Bedrijf | Plaats | Wat ze doen | Status |
 |---|---|---|---|
-| **Skyline Communications** (Izegem, ~8 km) | ⭐ Eigen productsoftware **DataMiner** (C#, .NET, XML, Azure DevOps, dashboards, low-code apps). Internationaal (Izegem, Sarajevo, Lissabon, Singapore, Weston) | ✅ eigen studentenpagina + stage/bachelorproef + "Summer Academy" ('DM for dummies') | [skyline.be/jobs/en/students](https://skyline.be/jobs/en/students) |
-| **Televic Group** (Izegem, ~8 km) | ⭐ High-tech communicatiesystemen: Rail, Healthcare, Conference, Education. Embedded + software | ✅ stage, bachelor-/masterproef, vakantiejob — ook voor Toegepaste Informatica; jaarlijks *Talent Café* | [televic.com — vacatures](https://www.televic.com/nl/business-units/televic-group/werken-bij-televic/vacatures) |
-| **Deceuninck** (Hooglede-Gits, ~7 km) | Internationale producent met eigen IT-/ERP-team | ❓ | deceuninck.com |
-| **Ardo** (Ardooie, ~10 km), **Sioen** (Ardooie), **Vandemoortele** (Izegem) | Grote bedrijven met eigen IT-, ERP- en data-afdeling | ❓ | via hun jobsite |
+| **ATV** | Roeselare | Automatisering van industriële installaties, 20+ jaar, oplossingen op maat | 🔧 |
+| **Vandecappelle Controls** | Roeselare | Vast team ingenieurs, elektrotechniekers en HVAC-specialisten; elektrotechniek + regeltechniek | 🔧 |
+| **VDC Roeselare NV** | Roeselare | Verdeler elektrotechnisch materiaal voor de industrie, gespecialiseerd in meet- en regeltechniek | 🔧 |
+| **Full House** | Izegem (~8 km) | Elektrische installaties, bekabeling, **bordenbouw**, industriële installaties | 🔧 |
+| **Germond** | Izegem (~8 km) | Machines/gereedschappen metaalindustrie + productieautomatisering en CNC | 🔧 |
+| **Actemium** (VINCI Energies) | Kortrijk (~25 km) | Automation, process control & instrumentation, elektrische engineering én **industrial IT** — exact jouw profiel. Biedt stages aan | ✅ [actemium.be](https://www.actemium.be/) |
+| **VINTECC** | Wevelgem/Kortrijk (~25 km) | Software, control systems, machinediagnose voor machinebouwers | 🔧 |
+| **RoboJob** | Heule–Kortrijk (~25 km) | Marktleider CNC-automatisering, 2000+ robots geplaatst | 🔧 |
 
 ---
 
-## 3. Iets verder (20–35 km) — grootste kans op een écht dev-team
+## C. Productiebedrijven met eigen technische dienst (5–25 km)
 
-| Bedrijf | Plaats | Wat ze doen | Stage |
-|---|---|---|---|
-| **Barco** | Kortrijk (~25 km) | Beeldtechnologie; software developer studentenjobs + stage/thesis, multidisciplinaire teams met mentor | ✅ [jobs.barco.com — students](https://jobs.barco.com/go/Students/4342001/) |
-| **TVH** | Waregem (~25 km) | Onderdelen wereldwijd, zeer grote IT-afdeling; stages + 2-jarig traineeship | ✅ [jobs.tvh.com — students & internships](https://jobs.tvh.com/en/students-internships) · mail `stages@tvh.com` |
-| **Cegeka** | Kortrijk (~25 km) | IT-consultancy; ~34 stageplaatsen per jaar, grotendeels IT | ✅ [cegeka.com — internships](https://www.cegeka.com/nl-be/jobs/werken-als/young-professional-internships) — plaatsen gaan snel weg, nieuwe lijst verschijnt meestal in september/februari |
-| **delaware** | Kortrijk (~25 km) | IT-consultancy (SAP, data, custom dev); neemt elk jaar ~80 juniors aan | ❓ careers.delaware.pro |
-| **Picanol** | Ieper (~30 km) | Weefmachines; **eigen IT internship & thesis pagina**, werkt o.a. met VIVES-studenten Toegepaste Informatica | ✅ [picanol.be — IT internship & thesis](https://www.picanol.be/en/jobs/students/it-internship-and-thesis-opportunities) |
-| **Vandewiele** | Kortrijk (~25 km) | Textielmachines, embedded software | ❓ |
-| **Unilin** | Wielsbeke (~20 km) | Grote IT-/data-afdeling | ❓ |
-| **Renson** | Waregem (~25 km) | Ventilatie/zonwering, IoT & software | ❓ |
-| **Van Marcke** | Kortrijk (~25 km) | Eigen IT- en e-commerce team | ❓ |
+Deze bedrijven **zoeken permanent** net dit profiel — op VDAB staan 81 vacatures "automatisatietechnieker" in Roeselare alleen. Wie mensen zoekt, neemt graag stagiairs.
 
----
+| Bedrijf | Plaats | Waarom interessant |
+|---|---|---|
+| **Ardo** | Ardooie (~10 km) | Diepvriesgroenten, sterk geautomatiseerde lijnen, grote technische dienst |
+| **Sioen Industries** | Ardooie (~10 km) | Technisch textiel, eigen onderhoud + automatisering |
+| **Vandemoortele** | Izegem (~8 km) | Voeding, procesautomatisering |
+| **Deceuninck** | Hooglede-Gits (~7 km) | Kunststofprofielen, extrusielijnen + eigen IT |
+| **Soubry** | Roeselare | Pastaproductie, volautomatische lijnen — vlak bij school |
+| **Brouwerij Rodenbach** | Roeselare | Brouwerij met sterk geautomatiseerd proces |
+| **Dovy Keukens** | Roeselare | Productie + eigen IT/technische dienst |
+| **Mariasteen** | Hooglede (~7 km) | Maatwerkbedrijf met veel automatisering en montage |
+| **Unilin** | Wielsbeke (~20 km) | Grote technische dienst + IT/data |
+| **Vandewiele** | Kortrijk (~25 km) | Weefmachines: elektronica, embedded, sturingen |
 
-## 4. Waar je zelf stages kan zoeken
-
-- [VDAB — vind een job (Roeselare 8800)](https://www.vdab.be/vindeenjob/jobs/software-developer-8800-roeselare)
-- [Indeed — stage Roeselare](https://be.indeed.com/Stage-jobs-in-Roeselare) (100+ resultaten)
-- [StudentJob.be — stage Roeselare](https://www.studentjob.be/stage/roeselare)
-- [Student.be — stages IT (software, hardware & design)](https://www.student.be/nl/it-software-hardware-design/stages/)
-- [StageTalent.be](https://www.stagetalent.be/)
-- [it-vacatures.be — Roeselare](https://www.it-vacatures.be/ict-jobs/vacatures-roeselare/) · [ict-jobs.be — Roeselare](https://www.ict-jobs.be/it-vacatures/ict-jobs-roeselare/)
-- [StepStone — software developer Roeselare](https://www.stepstone.be/jobs/software-developer/in-roeselare)
-- Bedrijvengidsen: [Kompass — IT/Internet/R&D Roeselare](https://be.kompass.com/s/it-internet-r-d/12/v/roeselare/be_30000_36000_36015/) · [Gouden Gids — IT Roeselare](https://www.goudengids.be/bedrijven/Roeselare/it/)
-- **Via de school**: Howest en VIVES hebben eigen stagedatabanken met vaste partnerbedrijven — de stagecoördinator heeft vaak contacten die niet online staan.
+> Aanpak voor deze groep: vraag naar de **technische dienst** of de **onderhoudsverantwoordelijke**, niet naar HR. HR van een fabriek weet meestal niet dat er een stageplaats is; de technische dienst wel.
 
 ---
 
-## Aanpak
+## D. Grote tech-bedrijven (🎓 vooral hogeschool, maar het kost niets om te vragen)
 
-1. **Eerst de ✅-bedrijven** (Skyline, Televic, Barco, TVH, Picanol, Cegeka, Roularta, AZ Delta): zij hebben een stageproces, een mentor en een formulier. Dat is de makkelijkste weg.
-2. **Daarna de kleine Roeselaarse bedrijven** spontaan mailen. Zij zetten stages nooit online, maar zeggen vaak ja — en je doet er meer verschillende dingen.
-3. **Timing**: de meeste stageplaatsen voor het volgende academiejaar worden **september–februari** verdeeld. Vroeg zijn = kiezen.
-4. Vraag altijd of ze een **bachelorproef/eindwerk** combineren met de stage — dan krijg je een echt project i.p.v. helpdesk.
+| Bedrijf | Plaats | Opmerking |
+|---|---|---|
+| **Televic Group** | Izegem (~8 km) | Rail, healthcare, conference, education. Neemt studenten Bachelor & Master; vraag naar **test/service/productie-ondersteuning** voor een 6de jaar |
+| **Skyline Communications** | Izegem (~8 km) | DataMiner-software, internationaal. Stages + "Summer Academy", vooral hogeschool |
+| **Picanol** | Ieper (~30 km) | Weefmachines; eigen [IT internship & thesis pagina](https://www.picanol.be/en/jobs/students/it-internship-and-thesis-opportunities), werkt met VIVES-studenten |
+| **Barco** | Kortrijk (~25 km) | Studentenjobs + stage/thesis, met mentor — [jobs.barco.com](https://jobs.barco.com/go/Students/4342001/) |
+| **TVH** | Waregem (~25 km) | Grote IT-afdeling, cv naar `stages@tvh.com` |
 
-### Mailtemplate (kort houden)
+Handig: deze lijst is óók je voorbereiding op na het secundair — Televic, Skyline, Picanol en Barco zijn precies de bedrijven waar VIVES- en Howest-studenten stage lopen (zie `vives.md`, `howest.md`).
 
-> Onderwerp: Stageaanvraag Toegepaste Informatica — [periode]
+---
+
+## Praktisch: hoe het loopt bij een leerlingenstage
+
+- In de 3de graad loopt de stage in het **6de jaar**, meestal **2 à 3 weken** — *exacte periode en duur: navragen bij de stagecoördinator van VTI* (staat op [vtiroeselare.be/stage](https://www.vtiroeselare.be/stage/)).
+- De **school** maakt de stageovereenkomst; jij mag (en moet meestal) zelf een bedrijf voorstellen. Eerst bellen, dan pas de school laten bevestigen.
+- Onbezoldigd en verzekerd via de school. Het bedrijf moet een **werkpostfiche** invullen (risico's van je werkplek) — bedrijven die nooit stagiairs hadden, schrikken daar soms van: zeg erbij dat de school alle papieren aanlevert.
+- Je krijgt een **stagementor** in het bedrijf + een evaluatie die meetelt.
+- **Timing**: bel in het begin van het schooljaar. Goede plaatsen zijn in oktober–november weg.
+
+### Telefoonscript (30 seconden)
+
+> "Goeiedag, ik ben [naam]. Ik zit in het 6de jaar Industriële ICT aan het VTI in Roeselare. Ik zoek een stageplaats van [x] weken in [periode]. Ik werk met PLC's, netwerken en pc-hardware. Zou ik bij jullie stage mogen lopen? — Met wie kan ik daarover spreken?"
+
+Vraag altijd naar een **naam + mailadres** en stuur meteen erna je cv door.
+
+### Mail (kort, na het telefoontje)
+
+> Onderwerp: Stageaanvraag 6de jaar Industriële ICT — VTI Roeselare — [periode]
 >
-> Beste,
+> Beste [naam],
 >
-> Ik ben [naam], student [richting] aan [school]. In [periode] loop ik [aantal weken] stage en ik zoek een plaats in de buurt van Roeselare.
-> Ik werk graag met [talen/technologieën], en maakte o.a. [1 project in 1 zin].
+> Zoals net besproken: ik ben [naam], leerling 6de jaar Industriële ICT aan VTI Roeselare. Ik zoek een stageplaats van [x] weken in [periode].
+> Op school werk ik met PLC-sturingen, industriële en kantoornetwerken, elektrische schema's, elektronica en pc-hardware. Ik maakte o.a. [1 project in 1 zin].
 > Uw werk rond [iets concreets van hun site] sluit goed aan bij wat ik wil leren.
 >
-> Zou een stage bij jullie mogelijk zijn? In bijlage mijn cv — ik kom graag langs voor een kennismaking.
+> De school levert de stageovereenkomst en de werkpostfiche aan; mijn stagebegeleider is [naam, als je die al kent].
+> In bijlage mijn cv. Ik kom graag eens langs.
 >
 > Met vriendelijke groeten,
 > [naam] · [telefoon] · [e-mail]
 
 ---
 
+## Zelf verder zoeken
+
+- [VDAB — automatisatietechnieker Roeselare](https://www.vdab.be/vindeenjob/jobs/automatisatie-technieker-8800-roeselare) (81 jobs → evenveel mogelijke stageplaatsen)
+- [VDAB — technieker Roeselare](https://www.vdab.be/vindeenjob/jobs/technieker-8800-roeselare)
+- [Indeed — stage Roeselare](https://be.indeed.com/Stage-jobs-in-Roeselare) · [StudentJob — stage Roeselare](https://www.studentjob.be/stage/roeselare) · [StageTalent.be](https://www.stagetalent.be/)
+- Bedrijvengidsen: [Kompass — IT Roeselare](https://be.kompass.com/s/it-internet-r-d/12/v/roeselare/be_30000_36000_36015/) · [Gouden Gids — IT Roeselare](https://www.goudengids.be/bedrijven/Roeselare/it/) · [bsearch.be — industriële automatisering](https://www.bsearch.be/industriele-automatisering/)
+- **Belangrijkste bron**: de stagecoördinator van VTI heeft een lijst met bedrijven waar vorige jaren al leerlingen zaten. Dáár eerst vragen.
+
+---
+
 ## TODO
 
-- [ ] Stageperiode + aantal weken van de school navragen (bepaalt alles)
-- [ ] Skyline Communications — studentenpagina invullen
-- [ ] Televic — vacatures/stage bekijken + Talent Café datum checken
-- [ ] Picanol — IT internship & thesis formulier
-- [ ] TVH — cv naar stages@tvh.com
-- [ ] Barco — students-pagina checken
-- [ ] Cegeka — stageplaatsen (nieuwe lijst)
-- [ ] Roularta — stageplaatsen (dichtbij, te voet/fiets bereikbaar)
+- [ ] Stagecoördinator VTI: exacte periode, aantal weken, en de lijst met vaste stagebedrijven opvragen
+- [ ] Kiezen: groep A (netwerken/support), B (automatisering) of C (technische dienst)
+- [ ] Bellen: Aditco, Lebon IT, ITAF, Aberon, Zoka (groep A — allemaal in Roeselare)
+- [ ] Bellen: ATV, Vandecappelle Controls, Full House (groep B)
+- [ ] Mailen: Actemium Kortrijk (heeft een stageprocedure)
 - [ ] AZ Delta — stage ondersteunende diensten/ICT aanvragen
-- [ ] 5 spontane mails naar Roeselaarse IT-bedrijven (Aditco, Aberon, ITAF, Zoka, Lebon IT)
-- [ ] ❓-bedrijven bellen om te checken of ze stagiairs nemen
+- [ ] Roularta — stageplaatsen bekijken (dichtstbij)
+- [ ] Televic + Picanol — vragen of een 6de jaar TSO welkom is
+- [ ] cv maken (1 blad: projecten, PLC/netwerk/hardware, talen, rijbewijs/brommer)
