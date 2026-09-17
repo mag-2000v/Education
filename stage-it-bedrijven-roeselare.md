@@ -14,14 +14,14 @@ Legende: ✅ = neemt zeker stagiairs (staat op hun site) · 🔧 = past bij het 
 
 | Categorie | Aantal in Roeselare | Namen |
 |---|---|---|
-| **A. ICT-support & netwerken** | **9** | Aditco Solutions · Lebon IT Services (Beveren) · ITAF · Aberon IT · Zoka · KV-Solutions · AZ Delta (ICT) · Roularta (IT-servicedesk) · Stad Roeselare (dienst ICT) |
+| **A. ICT-support & netwerken** | **10** | Dynamate (kantoor Roeselare) · Aditco Solutions · Lebon IT Services (Beveren) · ITAF · Aberon IT · Zoka · KV-Solutions · AZ Delta (ICT) · Roularta (IT-servicedesk) · Stad Roeselare (dienst ICT) |
 | **B. Industriële automatisering** | **3** | ATV · Vandecappelle Controls · VDC Roeselare |
 | **C. Technische dienst productie** | **3** | Soubry · Brouwerij Rodenbach · Dovy Keukens |
 | **D. Embedded & machinebouw** | **3** | VDL Bus Roeselare · Dewulf · AVR |
-| **Kernlijst** | **18** | de bedrijven hierboven — allemaal met de fiets bereikbaar |
+| **Kernlijst** | **19** | de bedrijven hierboven — allemaal met de fiets bereikbaar |
 | Extra, kleiner | +8 | pc-/computerzaken (VDH IT Systems, Wim@com …) en webbureaus (Code-on, Kruisraket, KMO Design, Kings Agency, Original Media, Pixular) |
-| **Totaal Roeselare** | **±26** | |
-| Binnen 10–15 km erbij | +10 | Izegem (Televic, Skyline, Handsaeme Machinery, Full House, Germond, Vandemoortele) · Hooglede (Deceuninck, Mariasteen) · Ardooie (Ardo, Sioen) |
+| **Totaal Roeselare** | **±27** | |
+| Binnen 10–15 km erbij | +12 | **Ardooie (ConXioN)** · **Passendale (Dynamate HQ)** · Izegem (Televic, Skyline, Handsaeme Machinery, Full House, Germond, Vandemoortele) · Hooglede (Deceuninck, Mariasteen) · Ardooie (Ardo, Sioen) |
 
 Ter vergelijking (bredere markt, niet allemaal geschikt voor stage): Gouden Gids telt in Roeselare ±20 zaken "computeronderhoud & -herstelling", 48 "computers & toebehoren" en 21 onder "pc"; softwarebedrijf-info telt er 13 maatwerksoftware, 13 software consultancy en 8 softwarelevering. Op VDAB staan **81 vacatures automatisatietechnieker** in Roeselare (8800) — elk zo'n bedrijf is een mogelijke stageplaats.
 
@@ -66,6 +66,23 @@ Klein en lokaal: geen online stageprocedure, maar wél het makkelijkst binnen te
 | **AZ Delta** — Roeselare | Ziekenhuis met grote ICT-dienst (netwerk, werkplekbeheer, medische apparatuur). Stage kan uitdrukkelijk ook in de **ondersteunende diensten** | ✅ | [azdelta.be — stage doen](https://www.azdelta.be/nl/stage-doen-bij-az-delta) |
 | **Roularta Media Group** — Roeselare | Mediagroep met eigen IT-servicedesk + digitale afdeling. Te voet/fiets bereikbaar | ✅ eigen stagepagina | [jobs.roularta.com/stageplaatsen](https://jobs.roularta.com/stageplaatsen/) |
 | **Stad Roeselare — dienst ICT** | Netwerk en werkplekken van stad + OCMW | 🔧 te checken via personeelsdienst | roeselare.be |
+
+---
+
+## A-bis. Echte IT-dienstverleners (het type ConXioN) — de professionele middenmoot
+
+Dit is de categorie die je bedoelt: geen pc-winkel en geen eenmanszaak, maar **bedrijven van 50 tot 250 man met een servicedesk, een engineeringteam, een securityteam en een echt stageprogramma**. Voor een 6IICT-stage is dit vaak de beste combinatie: structuur en begeleiding zoals bij een groot bedrijf, maar je komt wél aan de toestellen.
+
+| Bedrijf | Plaats | Wat ze doen | Stage |
+|---|---|---|---|
+| **ConXioN** ⭐ | **Ardooie (~10 km)**, ook actief vanuit Roeselare, Kortrijk en Antwerpen | ICT-partner voor kmo's: managed services, cloud (M365), virtualisatie, security. "ICT als strategisch bedrijfsmiddel" | ✅ **eigen [stage-vacaturepagina](https://www.conxion.be/stage-vacatures/)**. Ze zoeken samen met jou welke stage past. Extra: het **Digital Entrepreneurship-programma** in hun Experience Center — met een mede-stagiair werk je rond AI, AR, IoT, VR of bots, van onderzoek tot een pitch aan het team en klanten |
+| **Dynamate** (ex-Christiaens + denk IT, fuseert met VanRoey) ⭐ | HQ **Passendale (~15 km)**, **kantoor in Roeselare** | In Roeselare zit hun team **infrastructuur, security en support** (het vroegere denk IT): IT-beheer, automatisering, security, managed services. Elders ERP/Business Central, cloud, apps | 🔧 vacatures op [dynamate.be/jobs](https://www.dynamate.be/jobs) — bellen naar het kantoor Roeselare |
+| **Savaco** | Kortrijk (~25 km) | Hybrid cloud, security & networking, modern workplace, business apps, data & AI, engineering & industry | ✅ [stagepagina](https://careers.savaco.com/pages/it-s-about-internships-stage-lopen-bij-savaco): ~15 laatstejaars per jaar + "Starter Academy" — let op: zij schrijven master/bachelor/graduaat, dus vraag expliciet of een 6de jaar TSO kan |
+| **ITAF** | Roeselare | Managed IT, support, cloud, security; deel van een grotere groep | 🔧 |
+| **Lebon IT Services** | Beveren-Roeselare | ~50 collega's, Infrastructure & Networking / Security / Modern Work | 🔧 |
+| **i-Serv** | Ruddervoorde–Oostkamp (~30 km) | Hardware, backup, security, Microsoft 365, online werkplek | 🔧 |
+
+> **ConXioN is je beste gok** als je dit type bedrijf wil: het is het enige in de streek met een stagepagina én een apart stageprogramma, en Ardooie is ~10 km — met de fiets te doen.
 
 ---
 
@@ -202,6 +219,9 @@ Vraag altijd naar een **naam + mailadres** en stuur meteen erna je cv door.
 
 - [ ] Stagecoördinator VTI: exacte periode, aantal weken, en de lijst met vaste stagebedrijven opvragen
 - [ ] Kiezen: groep A (netwerken/support), B (automatisering) of C (technische dienst)
+- [ ] **ConXioN (Ardooie) — stage-vacaturepagina invullen, eerste keuze**
+- [ ] Dynamate kantoor Roeselare bellen (infrastructuur/security/support, ex-denk IT)
+- [ ] Savaco Kortrijk mailen + vragen of 6de jaar TSO kan
 - [ ] Bellen: Aditco, Lebon IT, ITAF, Aberon, Zoka (groep A — allemaal in Roeselare)
 - [ ] Bellen: ATV, Vandecappelle Controls, Full House (groep B)
 - [ ] Mailen: Actemium Kortrijk (heeft een stageprocedure)
