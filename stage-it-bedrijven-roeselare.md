@@ -17,10 +17,11 @@ Legende: ✅ = neemt zeker stagiairs (staat op hun site) · 🔧 = past bij het 
 | **A. ICT-support & netwerken** | **9** | Aditco Solutions · Lebon IT Services (Beveren) · ITAF · Aberon IT · Zoka · KV-Solutions · AZ Delta (ICT) · Roularta (IT-servicedesk) · Stad Roeselare (dienst ICT) |
 | **B. Industriële automatisering** | **3** | ATV · Vandecappelle Controls · VDC Roeselare |
 | **C. Technische dienst productie** | **3** | Soubry · Brouwerij Rodenbach · Dovy Keukens |
-| **Kernlijst** | **15** | de bedrijven hierboven — allemaal met de fiets bereikbaar |
+| **D. Embedded & machinebouw** | **3** | VDL Bus Roeselare · Dewulf · AVR |
+| **Kernlijst** | **18** | de bedrijven hierboven — allemaal met de fiets bereikbaar |
 | Extra, kleiner | +8 | pc-/computerzaken (VDH IT Systems, Wim@com …) en webbureaus (Code-on, Kruisraket, KMO Design, Kings Agency, Original Media, Pixular) |
-| **Totaal Roeselare** | **±23** | |
-| Binnen 10 km erbij | +8 | Izegem (Skyline, Televic, Full House, Germond, Vandemoortele) · Hooglede (Deceuninck, Mariasteen) · Ardooie (Ardo, Sioen) |
+| **Totaal Roeselare** | **±26** | |
+| Binnen 10–15 km erbij | +10 | Izegem (Televic, Skyline, Handsaeme Machinery, Full House, Germond, Vandemoortele) · Hooglede (Deceuninck, Mariasteen) · Ardooie (Ardo, Sioen) |
 
 Ter vergelijking (bredere markt, niet allemaal geschikt voor stage): Gouden Gids telt in Roeselare ±20 zaken "computeronderhoud & -herstelling", 48 "computers & toebehoren" en 21 onder "pc"; softwarebedrijf-info telt er 13 maatwerksoftware, 13 software consultancy en 8 softwarelevering. Op VDAB staan **81 vacatures automatisatietechnieker** in Roeselare (8800) — elk zo'n bedrijf is een mogelijke stageplaats.
 
@@ -46,6 +47,7 @@ Zoek dus een bedrijf uit één van deze drie groepen — dat zijn drie heel vers
 | **A. ICT-support & netwerken** | pc's klaarzetten, netwerk/wifi/firewall, servers, helpdesk, klanten bezoeken | als je richting IT-infrastructuur wil |
 | **B. Industriële automatisering & bordenbouw** | PLC's, besturingskasten bouwen/bedraden, sensoren, machines in dienst stellen | als je richting automatisering wil |
 | **C. Technische dienst van een productiebedrijf** | onderhoud + storingen op machines, PLC's, industriële netwerken | als je wil zien hoe een fabriek draait |
+| **D. Embedded systems & machinebouw** | elektronica en microcontrollers in machines: CAN-bus, sturingen, sensoren, kabelbundels, testen en in dienst stellen | als je richting elektronica/embedded wil |
 
 ---
 
@@ -103,7 +105,44 @@ Deze bedrijven **zoeken permanent** net dit profiel — op VDAB staan 81 vacatur
 
 ---
 
-## D. Grote tech-bedrijven (🎓 vooral hogeschool, maar het kost niets om te vragen)
+## D. Embedded systems & elektronica — de meest technische stage
+
+**Eerst even eerlijk:** *firmware schrijven in C* is meestal werk voor bachelorstudenten. Voor een 6de jaar IICT ga je bij deze bedrijven binnen langs de kant van **testen, meten, bedraden, assembleren, in dienst stellen en service** — je werkt mee áán embedded systemen, je ontwerpt ze nog niet. Dat is precies wat jouw lessentabel (microprocessoren, elektronica, elektropneumatica, diagnose) voorbereidt.
+
+### In Roeselare zelf
+
+| Bedrijf | Wat ze doen | Wat je er als stagiair doet | Status |
+|---|---|---|---|
+| **VDL Bus Roeselare** | Bouwt **elektrische bussen**, ontwikkelt zich als zelfstandige OEM. Zoekt zelf mensen met embedded-softwarekennis | Elektrische aandrijving, CAN-bus, bedrading en testen van voertuigsystemen | 🔧 grootste embedded-werkgever ín Roeselare |
+| **Dewulf** | Aardappel- en wortelgewasmachines, internationale top. Volledig **ISOBUS**-besturingssysteem: controller + software + 12" touchscreen en joystick | Besturingen testen, machines in dienst stellen, schema's en sensoren | ✅ eigen [stage- en afstudeerpagina](https://www.dewulfgroup.com/nl/vacatures/?detail=stage-en-afstuderen-bij-dewulf-nl) |
+| **AVR** | Landbouwmachines; werkt met mechanica, hydraulica én elektriciteit, veel interne opleiding | Service & diagnose op machines met elektronische sturing | 🔧 [jobs.avr.be](https://jobs.avr.be/en/service-technieker) |
+
+### Binnen 10 km
+
+| Bedrijf | Plaats | Waarom embedded |
+|---|---|---|
+| **Televic Group / Televic Rail** | Izegem (~8 km) | Eigen elektronica + embedded software voor treinen, ziekenhuizen, conferentiesystemen. De sterkste embedded-naam van de streek |
+| **Handsaeme Machinery** | Izegem (~8 km) | Machinebouw met automatisatie-engineering |
+| **Full House** | Izegem (~8 km) | Bordenbouw en industriële bekabeling — de hardware-kant van sturingen |
+
+### 20–35 km — als je verder mag/kan rijden
+
+| Bedrijf | Plaats | Waarom embedded | Status |
+|---|---|---|---|
+| **CNH Industrial** (New Holland) | Zedelgem (~30 km) | 3000 werknemers, 300+ in productontwikkeling ("Centre of Excellence" maaidorsers). Studenten werken mee aan **prototypes, testen en validaties**; ze vragen uitdrukkelijk een opleiding elektromechanica of elektronica/elektriciteit | ✅ [cnhind-belgium.be](https://www.cnhind-belgium.be/nl) |
+| **Picanol** | Ieper (~30 km) | Weefmachines met eigen sturingen en elektronica | ✅ [IT internship & thesis](https://www.picanol.be/en/jobs/students/it-internship-and-thesis-opportunities) |
+| **Melexis** | Ieper (~30 km) | Wereldleider **automotive sensorchips** — gemiddeld 18 Melexis-chips per nieuwe auto. Ook technician- en operatorfuncties, dus vraag gerust | 🎓 [student search](https://www.melexis.com/en/careers/student-search) |
+| **Spica NV** | Kortrijk (~25 km) | Klantspecifieke elektronica, inductieve componenten, **kabelbundels en complete assemblages**, PLC-filters. Heel concreet handwerk + meten | 🔧 |
+| **Barco** | Kortrijk (~25 km) | Embedded beeldverwerking | ✅ [jobs.barco.com](https://jobs.barco.com/go/Students/4342001/) |
+| **Vandewiele** | Kortrijk (~25 km) | Weefmachines: elektronica, sturingen, embedded | 🔧 |
+| **VINTECC** | Wevelgem (~25 km) | Control systems en machinediagnose voor machinebouwers | 🔧 |
+| **Qbus** | Oostkamp (~35 km) | Domotica: eigen embedded modules voor gebouwbeheer | 🔧 |
+
+> Tip voor de zoektocht zelf: zoek op VDAB/Indeed niet op "stage", maar op **"embedded"**, **"automatisatietechnieker"** of **"technieker elektronica"** in een straal van 25 km. Elk bedrijf dat zo'n vacature heeft, heeft werk genoeg om een stagiair mee te laten draaien — bel hen gewoon op.
+
+---
+
+## E. Grote tech-bedrijven (🎓 vooral hogeschool, maar het kost niets om te vragen)
 
 | Bedrijf | Plaats | Opmerking |
 |---|---|---|
@@ -169,4 +208,7 @@ Vraag altijd naar een **naam + mailadres** en stuur meteen erna je cv door.
 - [ ] AZ Delta — stage ondersteunende diensten/ICT aanvragen
 - [ ] Roularta — stageplaatsen bekijken (dichtstbij)
 - [ ] Televic + Picanol — vragen of een 6de jaar TSO welkom is
+- [ ] **Embedded**: Dewulf (stagepagina invullen) · VDL Bus Roeselare · AVR — alle drie in Roeselare
+- [ ] Spica Kortrijk en CNH Zedelgem bellen als je verder mag rijden
+- [ ] Op VDAB zoeken op "embedded" + "technieker elektronica" binnen 25 km → bedrijvenlijst aanvullen
 - [ ] cv maken (1 blad: projecten, PLC/netwerk/hardware, talen, rijbewijs/brommer)
